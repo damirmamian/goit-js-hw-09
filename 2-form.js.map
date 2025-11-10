@@ -1,1 +1,1 @@
-{"version":3,"file":"2-form.js","sources":["../src/js/2-form.js"],"sourcesContent":["console.log(\"Form\");\n"],"names":[],"mappings":"wFAAA,QAAQ,IAAI,MAAM"}
+{"version":3,"file":"2-form.js","sources":["../src/js/2-form.js"],"sourcesContent":["const formData = {\n    email: \"\",\n    message: \"\"\n}\nconst form = document.querySelector(\".feedback-form\")"],"names":[],"mappings":"wFAIa,SAAS,cAAc,gBAAgB"}
